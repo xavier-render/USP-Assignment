@@ -1,0 +1,3 @@
+cat text.txt
+grep banana
+tee filtered.txt
